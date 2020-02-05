@@ -10,3 +10,7 @@ This is the last game in the FIFA series to be available on a seventh-generation
 
 
 #### In this Jupyter Notebook I have tried to Exploratory Data Analysis (EDA) of the FIFA 2019 Video Game
+
+
+References
+ - https://www.kaggle.com/roshansharma/fifa-data-visualization
