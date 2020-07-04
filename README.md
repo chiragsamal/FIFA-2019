@@ -9,10 +9,11 @@ The game features the UEFA club competitions for the first time, including the U
 
 This is the last game in the FIFA series to be available on a seventh-generation console, and the last known game to be available for the PlayStation 3 worldwide.
 
-
+Dataset Link: [FIFA 19 complete player dataset](https://www.kaggle.com/karangadiya/fifa19/download)
 
 #### In this Jupyter Notebook I have tried to Exploratory Data Analysis (EDA) of the FIFA 2019 Video Game
 
 
 References
- - https://www.kaggle.com/roshansharma/fifa-data-visualization
+ - [FIFA Data Visualization](https://www.kaggle.com/roshansharma/fifa-data-visualization)
+ - [FIFA in depth analysis with Linear Regression](https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression)
